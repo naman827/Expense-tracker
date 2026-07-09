@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 200.0,
+        "category": "Food",
+        "description": "somasa,french fries,burger,pizza",
+        "date": "2026-07-08 19:40"
+    },
+    {
+        "amount": 500.0,
+        "category": "Clothes",
+        "description": "shirts,jeans,shoes,sweat-shirt",
+        "date": "2026-07-08 19:41"
+    }
+]
